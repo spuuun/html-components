@@ -1,0 +1,8 @@
+.basic-info {
+    display: flex;
+    border: 1px solid black;
+}
+
+.basic-info__list {
+    list-style: none;
+}
