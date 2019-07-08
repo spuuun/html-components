@@ -5,5 +5,8 @@
 
 .basic-info__list {
     border: 10px dashed red;
+}
+
+.basic-info__list {
     list-style: none;
 }
