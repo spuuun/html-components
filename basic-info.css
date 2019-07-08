@@ -1,0 +1,9 @@
+.basic-info {
+    display: flex;
+    border: 10px solid deeppink;
+}
+
+.basic-info__list {
+    border: 10px dashed red;
+    list-style: none;
+}
