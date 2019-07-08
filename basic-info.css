@@ -1,6 +1,10 @@
 .basic-info {
     display: flex;
-    border: 1px solid black;
+    border: 10px solid deeppink;
+}
+
+.basic-info__list {
+    border: 10px dashed red;
 }
 
 .basic-info__list {
